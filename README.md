@@ -1,2 +1,2 @@
-# [WIP] jubilant-octo-computing-machine
+# jubilant-octo-computing-machine
 jocm
